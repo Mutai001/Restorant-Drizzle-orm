@@ -19,9 +19,11 @@
         "@types/node": "^20.14.1",
         "dotenv": "^16.4.5",
         "drizzle-orm": "^0.31.0",
+        "generate": "^0.14.0",
         "pg": "^8.11.5"
     },
     "devDependencies": {
+        "@faker-js/faker": "^8.4.1",
         "@types/pg": "^8.11.6",
         "drizzle-kit": "^0.22.1",
         "tsx": "^4.11.2",
